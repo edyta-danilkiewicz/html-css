@@ -1,2 +1,2 @@
 # html-css
-Web Page for learning purpose
+Web page for learning purpose
