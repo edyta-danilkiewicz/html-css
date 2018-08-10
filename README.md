@@ -1,13 +1,14 @@
 # Portfolio 
-Web page for learning purpose.
+Web page for learning purposes.
 
 ## Used in this project
 * HTML5
 * CSS3
-* Bootstrap 4
+* SASS instead of plain CSS
+* Bootstrap 4 based on SASS
 * jQuery
+* Node + Gulp to build frontend
 
 ## In future will be added
-* Scripts written in JS ES6
-* SASS
-* Node + Gulp to build frontend
+* Custom scripts written in JS ES6
+
