@@ -6,6 +6,17 @@ main {
   .card-box {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
+    flex-direction: column;
+
+    @include media-breakpoint-up(lg) {
+      flex-direction: row;
+    }
+
+    .card {
+      flex-basis: 30%;
+      min-width: 300px;
+    }
   }
 }
 
